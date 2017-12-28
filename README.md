@@ -72,4 +72,6 @@ build todo list example from redux docs
 sessie7: understand the syntax and redux API from todo list example
 sessie8, sessie9: build 2nd todo list: figure out store initialization in reducers, passing listId props to lists and via actions to reducers, using listId to target the the right piece of the store, configuring mapStateToProps, figuring out selectors with re-reselect
 
-Right now I got two todolists working independently from each other.
+Right now I got two todolists working independently from each other, the basic functionality of screen1
+
+Use 'npm start' in cmd to start
